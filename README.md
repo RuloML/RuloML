@@ -1,5 +1,4 @@
-# Hi 👋, I'm  
-**Raúl**  
+# Hi 👋, I'm  **Raúl**  
 
 ## 🚀 Passionate about analytics and diving into the world of Data Science.  
 Just getting started, but eager to learn and explore!  
