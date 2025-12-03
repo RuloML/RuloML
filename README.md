@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on ****Data Science projects related to demand planning and forecasting** [GitHub](#)**
 
-- 🤝 I’m looking for help with ****Optimizing ML models for time series forecasting** [GitHub](#)**
+- 🤝 I’m looking for help with ****Optimizing ML models for Time Series & Forecasting** [GitHub](#)**
 
 - 💬 Ask me about **Demand Planning & Forecasting 📈 - Data Science applications in business - Python for analytics**
 
