@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with ****Optimizing ML models for Time Series & Forecasting** [GitHub](#)**
 
-- 💬 Ask me about **Demand Planning & Forecasting 📈 - Data Science applications in business - Python for analytics**
+- 💬 Ask me about **Demand Planning & Forecasting 📈 - Data Science applications in business **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
